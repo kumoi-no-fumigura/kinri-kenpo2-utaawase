@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kinri-kenpo2-utaawase",
  "yomi": "きんりうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合",
+  "era": "建保2年（1214）7月",
+  "author": "主催 順徳天皇",
+  "desc": "順徳天皇の内裏で当座に詠まれた歌合。初秋露・野草花などの題で、家衡・康光・頼範・経通らが詠む。末尾が欠ける。"
+ },
  "editions": [
   {
    "pid": "1879502",
